@@ -3,17 +3,24 @@
 I'm Sven-Torben, a software engineering architect and partner at [CONCISO.](https://conciso.de)
 
 👶 Born and raised in Dortmund, Germany.
+
 📜 Diploma in computer science from [TU Dortmund](https://www.cs.tu-dortmund.de).
 
+
 💬 Socio-technical architecture, Domain Driven Design (DDD), and Keycloak.
+
 🔭 Currently working as a consultant at CONCISO.
+
+
+📚 [Free articles](https://www.sventorben.de/publications.html)
+
+🎤 [Presentations, talks and workshops](https://www.sventorben.de/talks.html)
+
 
 🎸Wannabe guitar hero.
 
 😄 Pronouns: he/him
 
-📚 [Free articles](https://www.sventorben.de/publications.html)
-🎤 [Presentations, talks and workshops](https://www.sventorben.de/talks.html)
 <!--
 **sventorben/sventorben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
