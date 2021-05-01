@@ -24,6 +24,9 @@ I'm Sven-Torben, a software engineering architect and partner at [CONCISO.](http
 
 😄 Pronouns: he/him
 
+
+[![Video](http://img.youtube.com/vi/jsBOqkoBXL0/0.jpg)](http://www.youtube.com/watch?v=jsBOqkoBXL0)
+
 <!--
 **sventorben/sventorben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
