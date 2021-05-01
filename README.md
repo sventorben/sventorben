@@ -2,6 +2,9 @@
 
 I'm Sven-Torben, a software engineering architect and partner at [CONCISO.](https://conciso.de)
 
+[![Twitter](https://img.shields.io/badge/-@sventorben-1ca0f1?style=square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sventorben)](https://twitter.com/sventorben) [![LinkedIn](https://img.shields.io/badge/sventorben-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/sventorben)](https://www.linkedin.com/in/sventorben) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sventorben.sventorben)
+
+
 👶 Born and raised in Dortmund, Germany.
 
 📜 Diploma in computer science from [TU Dortmund](https://www.cs.tu-dortmund.de).
