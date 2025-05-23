@@ -7,9 +7,9 @@ I'm Sven-Torben, a software engineering architect and partner at [CONCISO.](http
 📜 Diploma in computer science from [TU Dortmund](https://www.cs.tu-dortmund.de).
 
 
-💬 Socio-technical architecture, Domain Driven Design (DDD), and Keycloak.
+💬 Software architecture, Identity & Access Management (IAM) with Keycloak, Domain Driven Design (DDD), and Cloud Native.
 
-🔭 Currently working as a consultant at CONCISO.
+🔭 Consultant @ [CONCISO.](https://conciso.de)
 
 
 📚 [Free articles](https://www.sventorben.de/publications.html)
